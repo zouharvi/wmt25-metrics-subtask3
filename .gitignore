@@ -1,0 +1,13 @@
+data/
+outputs/
+*.pkl
+*.zip
+.env
+*.tsv
+
+# default python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
